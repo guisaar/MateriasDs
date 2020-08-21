@@ -2,11 +2,11 @@
 <html>
 
 <head>
-<!--Gif Screen Recorder -->
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mitocondrias</title>
+    <title>Caderno Virtual</title>
     <link href='https://fonts.googleapis.com/css?family=Raleway:900,300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="style.css"> <link rel="stylesheet" type="text/css" href="ScriptCine.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -18,7 +18,7 @@
 <body class="avadaKedabra">
 
   <header class="header-paralax">
-    <h1>Olá, Somos a <font> Mitocôndria</font>.<br> nós somos uma parte de você.
+    <h1>Olá, sou o <font> Guilherme Saar</font>.<br> Esse é meu Caderno Virtual.
 	<div id="Mywork" onclick="quantotestemeu()">Veja Sobre<img src="setadireta2.png" style="width:auto;margin-left:5%;margin-top:auto;max-height:20px;" id="imgwork"> </div>
 	
 	</h1>

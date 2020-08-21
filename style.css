@@ -9,7 +9,7 @@
 }
 
 .header-paralax {
-    background-image: url('Biologiaimageheader.jpg');
+    background-image: url('Fundo.jpg');
     background-size: cover;  background-size: 100% 100%;
     width: 100%;
     position: fixed;

@@ -29,9 +29,9 @@
   
    <nav class="menu2">
 	<ul>
-	<li><a onclick="Mitocondrias()" href="#" class="active3" >Mitocôndrias</a></li>
-    <li><a onclick="index()" href="#" class="active3" id="menuimg" >Banco de Dados</a></li>
-<li><a onclick="sobre()" href="#" class="active3">Pergunta </a></li >
+	<li><a onclick="Mitocondrias()" href="#" class="active3" >Português</a></li>
+    <li><a onclick="index()" href="#" class="active3" id="menuimg" >Inglês</a></li>
+<li><a onclick="sobre()" href="#" class="active3">Caderno Fisico</a></li >
   
   
 
